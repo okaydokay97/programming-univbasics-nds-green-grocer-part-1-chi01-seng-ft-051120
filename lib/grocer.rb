@@ -40,21 +40,3 @@ def consolidate_cart(cart)
   
   new_cart
 end
-
-# def consolidate_cart(cart)
-#   cart.each do |each_item|
-#     if !each_item[:count]
-#       each_item[:count] = 1
-#     end
-#   end
-#   index = 0
-#   while index < cart.length do
-    
-#     if cart[index]
-#   end
-    
-
-
-
-
-
